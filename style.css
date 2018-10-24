@@ -21,3 +21,8 @@ max-height: 300px;
 html{
   font-size: 010px;
 }
+
+.header {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
